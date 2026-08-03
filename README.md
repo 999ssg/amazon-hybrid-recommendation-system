@@ -45,3 +45,14 @@ E-commerce platforms face significant challenges with product discovery due to s
 ---
 
 ## 📂 Repository Structure
+
+├── Amazon_Product_Recommendation_System.ipynb  # Primary Colab Notebook
+├── Amazon_Product_Recommendation_Report.pdf     # Static PDF Export
+└── README.md                                    # Project Overview
+
+---
+
+## 🛠️ Tech Stack
+* **Language:** Python 3.x
+* **Core Libraries:** `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`
+* **ML / Recommendation Frameworks:** `scikit-learn`, `scikit-surprise`
