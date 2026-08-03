@@ -3,7 +3,7 @@ A hybrid recommendation system combining collaborative filtering (SVD) and conte
 
 # 🛒 Amazon Product Recommendation System
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/999ssg/amazon-hybrid-recommendation-system/blob/main/Amazon_Product_Recommendation_System.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/999ssg/amazon-hybrid-recommendation-system/blob/main/Amazon_Product_Recommendation_System_%E2%80%94Industry_Case_Study.ipynb)
 
 A scalable, hybrid recommendation engine built on Amazon product interaction data, combining **Popularity-Based Filtering**, **Collaborative Filtering (Matrix Factorization / SVD)**, and **Item-Item Similarity** to solve the cold-start problem and deliver personalized product suggestions.
 
